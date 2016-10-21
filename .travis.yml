@@ -2,4 +2,4 @@ language: objective-c
 osx_image: xcode8 
 xcode_project: src/Stass.xcodeproj 
 xcode_scheme: Stass 
-xcode_sdk: iphonesimulator9.3
+xcode_sdk: iphonesimulator10.0
